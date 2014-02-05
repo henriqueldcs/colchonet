@@ -1,6 +1,6 @@
 class RoomsController < ApplicationController
 
-  PER_PAGE = 1
+  PER_PAGE = 10
 
   before_action :require_authentication, 
     only: [:new, :edit, :create, :update, :destroy]

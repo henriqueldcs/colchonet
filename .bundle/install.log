@@ -1,0 +1,987 @@
+# Logfile created on 2014-01-07 00:33:55 -0200 by logger.rb/31641
+I, [2014-01-07T00:33:55.097275 #5824]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T00:33:55.098276 #5824]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T00:33:55.100277 #5824]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T00:33:55.101278 #5824]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T00:33:55.102278 #5824]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T00:33:55.103279 #5824]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T00:33:55.105281 #5824]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T00:33:55.106281 #5824]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T00:33:55.107282 #5824]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T00:33:55.109283 #5824]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T00:33:55.110284 #5824]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T00:33:55.111285 #5824]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T00:33:55.112285 #5824]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T00:33:55.114287 #5824]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T00:33:55.115285 #5824]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T00:33:55.116288 #5824]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T00:33:55.117287 #5824]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T00:33:55.118289 #5824]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T00:33:55.120291 #5824]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T00:33:55.121291 #5824]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T00:33:55.122291 #5824]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T00:33:55.123293 #5824]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T00:33:55.125294 #5824]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T00:33:57.678840 #5824]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T00:34:00.128107 #5824]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T00:34:01.802781 #5824]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T00:34:01.804781 #5824]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T00:34:01.805782 #5824]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T00:34:03.570428 #5824]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T00:34:03.571428 #5824]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T00:34:05.394113 #5824]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T00:34:08.147672 #5824]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T00:34:16.626738 #5824]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-07T00:34:16.630741 #5824]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-07T00:34:16.632742 #5824]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-07T00:34:16.634743 #5824]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-07T00:34:16.636744 #5824]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-07T00:34:23.361743 #5824]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-07T00:34:27.134702 #5824]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T00:34:30.822446 #5824]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-07T00:34:33.848767 #5824]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-07T00:34:39.208033 #5824]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-07T00:34:41.615975 #5824]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-07T00:34:45.191661 #5824]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-09T22:58:34.740032 #8592]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-09T22:58:34.741033 #8592]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-09T22:58:34.743033 #8592]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-09T22:58:34.744033 #8592]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-09T22:58:34.745034 #8592]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-09T22:58:34.747036 #8592]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-09T22:58:34.748035 #8592]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-09T22:58:34.749036 #8592]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-09T22:58:34.750037 #8592]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-09T22:58:34.751037 #8592]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-09T22:58:34.753041 #8592]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-09T22:58:34.755040 #8592]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-09T22:58:34.756041 #8592]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-09T22:58:34.758043 #8592]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-09T22:58:34.759043 #8592]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-09T22:58:34.760045 #8592]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-09T22:58:34.762045 #8592]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-09T22:58:34.763047 #8592]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-09T22:58:34.764049 #8592]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-09T22:58:34.766049 #8592]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-09T22:58:34.767049 #8592]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-09T22:58:34.769052 #8592]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-09T22:58:37.013472 #8592]  INFO -- : 0:  bcrypt-ruby (3.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.0.1-x86-mingw32.gemspec
+I, [2014-01-09T22:58:37.015474 #8592]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-09T22:58:37.016479 #8592]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-09T22:58:37.018476 #8592]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-09T22:58:37.019477 #8592]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-09T22:58:37.020476 #8592]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-09T22:58:37.021478 #8592]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-09T22:58:37.023479 #8592]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-09T22:58:37.024479 #8592]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-09T22:58:37.026481 #8592]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-09T22:58:37.027481 #8592]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-09T22:58:37.028483 #8592]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-09T22:58:37.030485 #8592]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-09T22:58:37.031484 #8592]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-09T22:58:37.032485 #8592]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-09T22:58:37.034486 #8592]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-09T22:58:37.035487 #8592]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-09T22:58:37.036488 #8592]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-09T22:58:37.038488 #8592]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-09T22:58:37.039490 #8592]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-09T22:58:37.040491 #8592]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-09T22:58:37.042492 #8592]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-09T22:58:37.043493 #8592]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-09T23:08:23.104843 #7800]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-09T23:08:23.105852 #7800]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-09T23:08:23.106845 #7800]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-09T23:08:23.108845 #7800]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-09T23:08:23.109847 #7800]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-09T23:08:23.110847 #7800]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-09T23:08:23.111849 #7800]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-09T23:08:23.112849 #7800]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-09T23:08:23.113850 #7800]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-09T23:08:23.114851 #7800]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-09T23:08:23.116852 #7800]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-09T23:08:23.117853 #7800]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-09T23:08:23.118853 #7800]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-09T23:08:23.119853 #7800]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-09T23:08:23.121855 #7800]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-09T23:08:23.125855 #7800]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-09T23:08:23.127860 #7800]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-09T23:08:23.129860 #7800]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-09T23:08:23.130860 #7800]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-09T23:08:23.132861 #7800]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-09T23:08:23.133863 #7800]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-09T23:08:23.135865 #7800]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-09T23:08:23.136863 #7800]  INFO -- : 0:  bcrypt-ruby (3.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.0.1-x86-mingw32.gemspec
+I, [2014-01-09T23:08:23.138865 #7800]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-09T23:08:23.139866 #7800]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-09T23:08:23.140867 #7800]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-09T23:08:23.142869 #7800]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-09T23:08:23.143869 #7800]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-09T23:08:23.145871 #7800]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-09T23:08:23.146871 #7800]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-09T23:08:23.147873 #7800]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-09T23:08:23.149873 #7800]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-09T23:08:23.150874 #7800]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-09T23:08:23.152875 #7800]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-09T23:08:23.153877 #7800]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-09T23:08:23.154876 #7800]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-09T23:08:23.156879 #7800]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-09T23:08:23.157878 #7800]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-09T23:08:23.159881 #7800]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-09T23:08:23.160880 #7800]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-09T23:08:23.161881 #7800]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-09T23:08:23.163883 #7800]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-09T23:08:23.164883 #7800]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-09T23:08:23.166885 #7800]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-09T23:08:23.167886 #7800]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-09T23:09:49.281286 #3088]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-09T23:09:49.283537 #3088]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-09T23:09:49.284489 #3088]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-09T23:09:49.286494 #3088]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-09T23:09:49.287570 #3088]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-09T23:09:49.289574 #3088]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-09T23:09:49.291032 #3088]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-09T23:09:49.292576 #3088]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-09T23:09:49.293914 #3088]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-09T23:09:49.294921 #3088]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-09T23:09:49.297530 #3088]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-09T23:09:49.298984 #3088]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-09T23:09:49.300550 #3088]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-09T23:09:49.302068 #3088]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-09T23:09:49.303485 #3088]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-09T23:09:49.304901 #3088]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-09T23:09:49.305813 #3088]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-09T23:09:49.307885 #3088]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-09T23:09:49.309611 #3088]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-09T23:09:49.310987 #3088]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-09T23:09:49.312062 #3088]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-09T23:09:49.314383 #3088]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-09T23:09:52.429211 #3088]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-09T23:09:52.430212 #3088]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-09T23:09:52.432214 #3088]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-09T23:09:52.433214 #3088]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-09T23:09:52.435215 #3088]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-09T23:09:52.436216 #3088]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-09T23:09:52.438217 #3088]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-09T23:09:52.439218 #3088]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-09T23:09:52.440219 #3088]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-09T23:09:52.442220 #3088]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-09T23:09:52.443221 #3088]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-09T23:09:52.445222 #3088]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-09T23:09:52.446223 #3088]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-09T23:09:52.448224 #3088]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-09T23:09:52.450225 #3088]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-09T23:09:52.451226 #3088]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-09T23:09:52.452227 #3088]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-09T23:09:52.454228 #3088]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-09T23:09:52.455228 #3088]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-09T23:09:52.456229 #3088]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-09T23:09:52.458231 #3088]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-09T23:09:52.459232 #3088]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-09T23:09:52.460232 #3088]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-10T21:23:53.935860 #3556]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-10T21:23:53.937861 #3556]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-10T21:23:53.938863 #3556]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-10T21:23:53.940862 #3556]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-10T21:23:53.941864 #3556]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-10T21:23:53.942864 #3556]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-10T21:23:53.944866 #3556]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-10T21:23:53.945867 #3556]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-10T21:23:53.946866 #3556]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-10T21:23:53.948868 #3556]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-10T21:23:53.949869 #3556]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-10T21:23:53.951870 #3556]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-10T21:23:53.952872 #3556]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-10T21:23:53.953869 #3556]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-10T21:23:53.955872 #3556]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-10T21:23:53.956872 #3556]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-10T21:23:53.958874 #3556]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-10T21:23:53.959876 #3556]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-10T21:23:53.961875 #3556]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-10T21:23:53.962878 #3556]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-10T21:23:53.963878 #3556]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-10T21:23:53.965879 #3556]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-10T21:23:53.966880 #3556]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-10T21:23:53.967881 #3556]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-10T21:23:53.969880 #3556]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-10T21:23:53.970883 #3556]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-10T21:23:53.972882 #3556]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-10T21:23:53.973883 #3556]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-10T21:23:53.975886 #3556]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-10T21:23:53.976887 #3556]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-10T21:23:53.977885 #3556]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-10T21:23:53.979889 #3556]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-10T21:23:53.980889 #3556]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-10T21:23:53.981890 #3556]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-10T21:23:53.983891 #3556]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-10T21:23:53.988893 #3556]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-10T21:23:53.990894 #3556]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-10T21:23:53.992895 #3556]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-10T21:23:53.993898 #3556]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-10T21:23:53.995899 #3556]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-10T21:23:53.996900 #3556]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-10T21:23:53.998900 #3556]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-10T21:23:53.999902 #3556]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-10T21:23:54.001904 #3556]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-10T21:23:54.002904 #3556]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-19T16:32:31.294692 #4056]  INFO -- : 0:  rake (10.1.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-19T16:32:31.301717 #4056]  INFO -- : 0:  i18n (0.6.9) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-19T16:32:31.302717 #4056]  INFO -- : 0:  minitest (4.7.5) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-19T16:32:31.303719 #4056]  INFO -- : 0:  multi_json (1.8.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-19T16:32:31.304719 #4056]  INFO -- : 0:  atomic (1.1.14) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-19T16:32:31.306721 #4056]  INFO -- : 0:  thread_safe (0.1.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-19T16:32:31.308564 #4056]  INFO -- : 0:  tzinfo (0.3.38) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-19T16:32:31.309577 #4056]  INFO -- : 0:  activesupport (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-19T16:32:31.310579 #4056]  INFO -- : 0:  builder (3.1.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-19T16:32:31.311580 #4056]  INFO -- : 0:  erubis (2.7.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-19T16:32:31.313854 #4056]  INFO -- : 0:  rack (1.5.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-19T16:32:31.314856 #4056]  INFO -- : 0:  rack-test (0.6.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-19T16:32:31.315857 #4056]  INFO -- : 0:  actionpack (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-19T16:32:31.317858 #4056]  INFO -- : 0:  mime-types (1.25.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-19T16:32:31.319159 #4056]  INFO -- : 0:  polyglot (0.3.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-19T16:32:31.320452 #4056]  INFO -- : 0:  treetop (1.4.15) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-19T16:32:31.321454 #4056]  INFO -- : 0:  mail (2.5.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-19T16:32:31.322454 #4056]  INFO -- : 0:  actionmailer (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-19T16:32:31.323456 #4056]  INFO -- : 0:  activemodel (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-19T16:32:31.325457 #4056]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-19T16:32:31.326457 #4056]  INFO -- : 0:  arel (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-19T16:32:31.327530 #4056]  INFO -- : 0:  activerecord (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-19T16:32:31.329533 #4056]  INFO -- : 0:  bcrypt-ruby (3.1.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-19T16:32:31.330534 #4056]  INFO -- : 0:  coffee-script-source (1.6.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-19T16:32:31.331535 #4056]  INFO -- : 0:  execjs (2.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-19T16:32:31.333537 #4056]  INFO -- : 0:  coffee-script (2.2.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-19T16:32:31.335539 #4056]  INFO -- : 0:  thor (0.18.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-19T16:32:31.336538 #4056]  INFO -- : 0:  railties (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-19T16:32:31.338546 #4056]  INFO -- : 0:  coffee-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-19T16:32:31.339541 #4056]  INFO -- : 0:  hike (1.2.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-19T16:32:31.340542 #4056]  INFO -- : 0:  jbuilder (1.5.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-19T16:32:31.341543 #4056]  INFO -- : 0:  jquery-rails (3.0.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-19T16:32:31.343425 #4056]  INFO -- : 0:  json (1.8.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-19T16:32:31.344427 #4056]  INFO -- : 0:  bundler (1.5.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-19T16:32:31.346429 #4056]  INFO -- : 0:  tilt (1.4.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-19T16:32:31.351432 #4056]  INFO -- : 0:  sprockets (2.10.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-19T16:32:31.352433 #4056]  INFO -- : 0:  sprockets-rails (2.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-19T16:32:31.354505 #4056]  INFO -- : 0:  rails (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-19T16:32:31.355905 #4056]  INFO -- : 0:  rdoc (3.12.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-19T16:32:31.356374 #4056]  INFO -- : 0:  sass (3.2.13) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-19T16:32:31.358378 #4056]  INFO -- : 0:  sass-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-19T16:32:31.359867 #4056]  INFO -- : 0:  sdoc (0.3.20) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-19T16:32:31.360367 #4056]  INFO -- : 0:  sqlite3 (1.3.8) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-19T16:32:31.362445 #4056]  INFO -- : 0:  turbolinks (2.1.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-19T16:32:31.363380 #4056]  INFO -- : 0:  uglifier (2.4.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-19T16:36:52.635259 #9528]  INFO -- : 0:  rake (10.1.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-19T16:36:52.637261 #9528]  INFO -- : 0:  i18n (0.6.9) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-19T16:36:52.638261 #9528]  INFO -- : 0:  minitest (4.7.5) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-19T16:36:52.639261 #9528]  INFO -- : 0:  multi_json (1.8.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-19T16:36:52.640264 #9528]  INFO -- : 0:  atomic (1.1.14) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-19T16:36:52.641264 #9528]  INFO -- : 0:  thread_safe (0.1.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-19T16:36:52.642264 #9528]  INFO -- : 0:  tzinfo (0.3.38) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-19T16:36:52.643265 #9528]  INFO -- : 0:  activesupport (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-19T16:36:52.645265 #9528]  INFO -- : 0:  builder (3.1.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-19T16:36:52.646267 #9528]  INFO -- : 0:  erubis (2.7.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-19T16:36:52.647267 #9528]  INFO -- : 0:  rack (1.5.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-19T16:36:52.648268 #9528]  INFO -- : 0:  rack-test (0.6.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-19T16:36:52.649269 #9528]  INFO -- : 0:  actionpack (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-19T16:36:52.650269 #9528]  INFO -- : 0:  mime-types (1.25.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-19T16:36:52.651269 #9528]  INFO -- : 0:  polyglot (0.3.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-19T16:36:52.652271 #9528]  INFO -- : 0:  treetop (1.4.15) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-19T16:36:52.653271 #9528]  INFO -- : 0:  mail (2.5.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-19T16:36:52.654272 #9528]  INFO -- : 0:  actionmailer (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-19T16:36:52.655273 #9528]  INFO -- : 0:  activemodel (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-19T16:36:52.656274 #9528]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-19T16:36:52.657274 #9528]  INFO -- : 0:  arel (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-19T16:36:52.659275 #9528]  INFO -- : 0:  activerecord (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-19T16:36:52.660276 #9528]  INFO -- : 0:  bcrypt-ruby (3.1.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-19T16:36:52.661277 #9528]  INFO -- : 0:  coffee-script-source (1.6.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-19T16:36:52.662277 #9528]  INFO -- : 0:  execjs (2.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-19T16:36:52.663277 #9528]  INFO -- : 0:  coffee-script (2.2.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-19T16:36:52.664278 #9528]  INFO -- : 0:  thor (0.18.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-19T16:36:52.665279 #9528]  INFO -- : 0:  railties (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-19T16:36:52.667281 #9528]  INFO -- : 0:  coffee-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-19T16:36:52.668281 #9528]  INFO -- : 0:  hike (1.2.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-19T16:36:52.669282 #9528]  INFO -- : 0:  jbuilder (1.5.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-19T16:36:52.670283 #9528]  INFO -- : 0:  jquery-rails (3.0.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-19T16:36:52.671284 #9528]  INFO -- : 0:  json (1.8.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-19T16:36:52.672285 #9528]  INFO -- : 0:  bundler (1.5.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-19T16:36:52.673285 #9528]  INFO -- : 0:  tilt (1.4.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-19T16:36:52.678289 #9528]  INFO -- : 0:  sprockets (2.10.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-19T16:36:52.679289 #9528]  INFO -- : 0:  sprockets-rails (2.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-19T16:36:52.680289 #9528]  INFO -- : 0:  rails (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-19T16:36:52.681291 #9528]  INFO -- : 0:  rdoc (3.12.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-19T16:36:52.683291 #9528]  INFO -- : 0:  sass (3.2.13) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-19T16:36:52.684291 #9528]  INFO -- : 0:  sass-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-19T16:36:52.685292 #9528]  INFO -- : 0:  sdoc (0.3.20) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-19T16:36:52.686293 #9528]  INFO -- : 0:  sqlite3 (1.3.8) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-19T16:36:52.687296 #9528]  INFO -- : 0:  turbolinks (2.1.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-19T16:36:52.689295 #9528]  INFO -- : 0:  uglifier (2.4.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-22T23:22:33.389077 #3112]  INFO -- : 0:  rake (10.1.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-22T23:22:33.391079 #3112]  INFO -- : 0:  i18n (0.6.9) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-22T23:22:33.392079 #3112]  INFO -- : 0:  minitest (4.7.5) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-22T23:22:33.393081 #3112]  INFO -- : 0:  multi_json (1.8.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-22T23:22:33.395081 #3112]  INFO -- : 0:  atomic (1.1.14) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-22T23:22:33.396083 #3112]  INFO -- : 0:  thread_safe (0.1.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-22T23:22:33.397083 #3112]  INFO -- : 0:  tzinfo (0.3.38) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-22T23:22:33.398083 #3112]  INFO -- : 0:  activesupport (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-22T23:22:33.400085 #3112]  INFO -- : 0:  builder (3.1.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-22T23:22:33.401086 #3112]  INFO -- : 0:  erubis (2.7.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-22T23:22:33.402087 #3112]  INFO -- : 0:  rack (1.5.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-22T23:22:33.404087 #3112]  INFO -- : 0:  rack-test (0.6.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-22T23:22:33.405088 #3112]  INFO -- : 0:  actionpack (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-22T23:22:33.406089 #3112]  INFO -- : 0:  mime-types (1.25.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-22T23:22:33.407089 #3112]  INFO -- : 0:  polyglot (0.3.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-22T23:22:33.408090 #3112]  INFO -- : 0:  treetop (1.4.15) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-22T23:22:33.410091 #3112]  INFO -- : 0:  mail (2.5.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-22T23:22:33.411093 #3112]  INFO -- : 0:  actionmailer (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-22T23:22:33.412093 #3112]  INFO -- : 0:  activemodel (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-22T23:22:33.414094 #3112]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-22T23:22:33.415094 #3112]  INFO -- : 0:  arel (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-22T23:22:33.416096 #3112]  INFO -- : 0:  activerecord (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-22T23:22:33.417096 #3112]  INFO -- : 0:  bcrypt-ruby (3.1.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-22T23:22:33.438111 #3112]  INFO -- : 0:  bundler (1.5.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-22T23:22:33.439111 #3112]  INFO -- : 0:  coffee-script-source (1.6.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-22T23:22:33.441112 #3112]  INFO -- : 0:  execjs (2.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-22T23:22:33.442112 #3112]  INFO -- : 0:  coffee-script (2.2.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-22T23:22:33.443113 #3112]  INFO -- : 0:  thor (0.18.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-22T23:22:33.444114 #3112]  INFO -- : 0:  railties (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-22T23:22:33.445114 #3112]  INFO -- : 0:  coffee-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-22T23:22:39.226535 #3112]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-22T23:22:39.228534 #3112]  INFO -- : 0:  hike (1.2.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-22T23:22:39.229535 #3112]  INFO -- : 0:  jbuilder (1.5.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-22T23:22:39.231541 #3112]  INFO -- : 0:  jquery-rails (3.0.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-22T23:22:39.232538 #3112]  INFO -- : 0:  json (1.8.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-22T23:22:39.233540 #3112]  INFO -- : 0:  tilt (1.4.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-22T23:22:39.235541 #3112]  INFO -- : 0:  sprockets (2.10.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-22T23:22:39.236540 #3112]  INFO -- : 0:  sprockets-rails (2.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-22T23:22:39.237542 #3112]  INFO -- : 0:  rails (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-22T23:22:39.238542 #3112]  INFO -- : 0:  rdoc (3.12.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-22T23:22:39.240544 #3112]  INFO -- : 0:  sass (3.2.13) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-22T23:22:39.241544 #3112]  INFO -- : 0:  sass-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-22T23:22:39.242545 #3112]  INFO -- : 0:  sdoc (0.3.20) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-22T23:22:39.243544 #3112]  INFO -- : 0:  sqlite3 (1.3.8) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-22T23:22:39.245547 #3112]  INFO -- : 0:  turbolinks (2.1.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-22T23:22:39.246547 #3112]  INFO -- : 0:  uglifier (2.4.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-23T13:49:32.969507 #2832]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-23T13:49:32.971296 #2832]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-23T13:49:32.972297 #2832]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-23T13:49:32.974301 #2832]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-23T13:49:32.975301 #2832]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-23T13:49:32.977301 #2832]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-23T13:49:32.978303 #2832]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-23T13:49:32.979305 #2832]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-23T13:49:32.981303 #2832]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-23T13:49:32.982306 #2832]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-23T13:49:32.984305 #2832]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-23T13:49:32.985609 #2832]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-23T13:49:32.986613 #2832]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-23T13:49:32.988187 #2832]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-23T13:49:32.990190 #2832]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-23T13:49:32.991415 #2832]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-23T13:49:32.993417 #2832]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-23T13:49:32.994419 #2832]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-23T13:49:32.995660 #2832]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-23T13:49:32.997665 #2832]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-23T13:49:32.998664 #2832]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-23T13:49:33.000666 #2832]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-23T13:49:33.001668 #2832]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-23T13:49:33.002668 #2832]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-23T13:49:33.004669 #2832]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-23T13:49:33.005672 #2832]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-23T13:49:33.007670 #2832]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-23T13:49:33.009673 #2832]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-23T13:49:33.010673 #2832]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-23T13:49:33.012670 #2832]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-23T13:49:33.013675 #2832]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-23T13:49:33.124493 #2832]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-23T13:49:33.126496 #2832]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-23T13:49:33.127495 #2832]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-23T13:49:33.128496 #2832]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-23T13:49:33.129498 #2832]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-23T13:49:33.131497 #2832]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-23T13:49:33.132500 #2832]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-23T13:49:33.134499 #2832]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-23T13:49:33.135502 #2832]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-23T13:49:33.136502 #2832]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-23T13:49:33.138502 #2832]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-23T13:49:33.139504 #2832]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-23T13:49:33.140504 #2832]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-23T13:49:33.142506 #2832]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-23T13:49:33.143508 #2832]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-23T13:49:33.145508 #2832]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-23T14:20:32.037999 #2540]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-23T14:20:32.040004 #2540]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-23T14:20:32.041004 #2540]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-23T14:20:32.042004 #2540]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-23T14:20:32.044006 #2540]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-23T14:20:32.045006 #2540]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-23T14:20:32.046007 #2540]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-23T14:20:32.048008 #2540]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-23T14:20:32.049010 #2540]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-23T14:20:32.050009 #2540]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-23T14:20:32.052012 #2540]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-23T14:20:32.055014 #2540]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-23T14:20:32.057015 #2540]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-23T14:20:32.059019 #2540]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-23T14:20:32.060016 #2540]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-23T14:20:32.062032 #2540]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-23T14:20:32.063036 #2540]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-23T14:20:32.064036 #2540]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-23T14:20:32.065037 #2540]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-23T14:20:32.068040 #2540]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-23T14:20:32.070041 #2540]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-23T14:20:32.071049 #2540]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-23T14:20:32.073042 #2540]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-23T14:20:32.074043 #2540]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-23T14:20:32.076046 #2540]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-23T14:20:32.077048 #2540]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-23T14:20:32.078048 #2540]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-23T14:20:32.080046 #2540]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-23T14:20:32.081048 #2540]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-23T14:20:32.082048 #2540]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-23T14:20:32.083958 #2540]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-23T14:20:32.160010 #2540]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-23T14:20:32.162011 #2540]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-23T14:20:32.163012 #2540]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-23T14:20:32.164012 #2540]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-23T14:20:32.165013 #2540]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-23T14:20:36.746104 #2540]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-23T14:20:36.748105 #2540]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-23T14:20:36.749106 #2540]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-23T14:20:36.750106 #2540]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-23T14:20:36.751107 #2540]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-23T14:20:36.753108 #2540]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-23T14:20:36.754109 #2540]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-23T14:20:36.755110 #2540]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-23T14:20:36.756112 #2540]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-23T14:20:36.758113 #2540]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-23T14:20:36.759114 #2540]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-23T14:20:36.760113 #2540]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-23T23:28:16.295061 #3124]  INFO -- : 0:  rake (10.1.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-23T23:28:16.296061 #3124]  INFO -- : 0:  i18n (0.6.9) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-23T23:28:16.297062 #3124]  INFO -- : 0:  minitest (4.7.5) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-23T23:28:16.299063 #3124]  INFO -- : 0:  multi_json (1.8.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-23T23:28:16.300062 #3124]  INFO -- : 0:  atomic (1.1.14) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-23T23:28:16.301064 #3124]  INFO -- : 0:  thread_safe (0.1.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-23T23:28:16.302066 #3124]  INFO -- : 0:  tzinfo (0.3.38) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-23T23:28:16.303066 #3124]  INFO -- : 0:  activesupport (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-23T23:28:16.305067 #3124]  INFO -- : 0:  builder (3.1.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-23T23:28:16.309070 #3124]  INFO -- : 0:  erubis (2.7.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-23T23:28:16.311072 #3124]  INFO -- : 0:  rack (1.5.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-23T23:28:16.312072 #3124]  INFO -- : 0:  rack-test (0.6.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-23T23:28:16.313073 #3124]  INFO -- : 0:  actionpack (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-23T23:28:16.314074 #3124]  INFO -- : 0:  mime-types (1.25.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-23T23:28:16.315074 #3124]  INFO -- : 0:  polyglot (0.3.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-23T23:28:16.317075 #3124]  INFO -- : 0:  treetop (1.4.15) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-23T23:28:16.318076 #3124]  INFO -- : 0:  mail (2.5.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-23T23:28:16.319077 #3124]  INFO -- : 0:  actionmailer (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-23T23:28:16.320078 #3124]  INFO -- : 0:  activemodel (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-23T23:28:16.321078 #3124]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-23T23:28:16.323079 #3124]  INFO -- : 0:  arel (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-23T23:28:16.324080 #3124]  INFO -- : 0:  activerecord (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-23T23:28:16.325079 #3124]  INFO -- : 0:  bcrypt-ruby (3.1.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-23T23:28:16.326083 #3124]  INFO -- : 0:  coffee-script-source (1.6.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-23T23:28:16.327082 #3124]  INFO -- : 0:  execjs (2.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-23T23:28:16.329082 #3124]  INFO -- : 0:  coffee-script (2.2.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-23T23:28:16.330083 #3124]  INFO -- : 0:  thor (0.18.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-23T23:28:16.331084 #3124]  INFO -- : 0:  railties (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-23T23:28:16.332085 #3124]  INFO -- : 0:  coffee-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-23T23:28:16.333085 #3124]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-23T23:28:16.446161 #3124]  INFO -- : 0:  friendly_id (5.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-23T23:28:16.447162 #3124]  INFO -- : 0:  hike (1.2.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-23T23:28:16.448163 #3124]  INFO -- : 0:  jbuilder (1.5.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-23T23:28:16.450163 #3124]  INFO -- : 0:  jquery-rails (3.0.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-23T23:28:16.451165 #3124]  INFO -- : 0:  json (1.8.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-23T23:28:16.452165 #3124]  INFO -- : 0:  kaminari (0.15.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-23T23:28:16.453166 #3124]  INFO -- : 0:  bundler (1.5.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-23T23:28:16.454166 #3124]  INFO -- : 0:  tilt (1.4.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-23T23:28:16.455168 #3124]  INFO -- : 0:  sprockets (2.10.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-23T23:28:16.456168 #3124]  INFO -- : 0:  sprockets-rails (2.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-23T23:28:16.458169 #3124]  INFO -- : 0:  rails (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-23T23:28:16.459170 #3124]  INFO -- : 0:  rdoc (3.12.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-23T23:28:16.460171 #3124]  INFO -- : 0:  sass (3.2.13) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-23T23:28:16.461171 #3124]  INFO -- : 0:  sass-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-23T23:28:16.462172 #3124]  INFO -- : 0:  sdoc (0.3.20) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-23T23:28:16.463173 #3124]  INFO -- : 0:  sqlite3 (1.3.8) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-23T23:28:16.464173 #3124]  INFO -- : 0:  turbolinks (2.1.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-23T23:28:16.466175 #3124]  INFO -- : 0:  uglifier (2.4.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-24T00:08:02.069393 #1436]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T00:08:02.071394 #1436]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T00:08:02.072393 #1436]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T00:08:02.073395 #1436]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T00:08:02.074395 #1436]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T00:08:02.076396 #1436]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T00:08:02.077396 #1436]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T00:08:02.078396 #1436]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T00:08:02.080398 #1436]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T00:08:02.081399 #1436]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T00:08:02.083400 #1436]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T00:08:02.084401 #1436]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T00:08:02.085402 #1436]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T00:08:02.087405 #1436]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T00:08:02.088403 #1436]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T00:08:02.089405 #1436]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T00:08:02.091405 #1436]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T00:08:02.092405 #1436]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T00:08:02.093407 #1436]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T00:08:02.095408 #1436]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T00:08:02.096408 #1436]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T00:08:02.098411 #1436]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T00:08:02.099412 #1436]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T00:08:02.100412 #1436]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T00:08:02.102412 #1436]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T00:08:04.509679 #1436]  INFO -- : 0:  carrierwave (0.9.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/carrierwave-0.9.0.gemspec
+I, [2014-01-24T00:08:04.511680 #1436]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T00:08:04.512680 #1436]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T00:08:04.513681 #1436]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T00:08:04.514682 #1436]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T00:08:04.516683 #1436]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T00:08:04.517684 #1436]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T00:08:04.519460 #1436]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T00:08:04.582272 #1436]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T00:08:04.584273 #1436]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T00:08:04.585273 #1436]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T00:08:04.587273 #1436]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T00:08:04.588275 #1436]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T00:08:04.589580 #1436]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T00:08:04.590584 #1436]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T00:08:04.592718 #1436]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T00:08:04.593190 #1436]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T00:08:04.595193 #1436]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+E, [2014-01-24T00:08:13.077678 #1436] ERROR -- : Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension.
+
+        D:/Ruby/Ruby193/bin/ruby.exe extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+Especifica‡Æo de unidade inv lida.
+Unable to get ImageMagick version
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=D:/Ruby/Ruby193/bin/ruby
+
+
+Gem files will remain installed in D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2 for inspection.
+Results logged to D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2/ext/RMagick/gem_make.out
+
+D:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:564:in `rescue in block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:540:in `block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `each'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:180:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \nD:/Ruby/Ruby193/bin/bundle:23:in `load'  \nD:/Ruby/Ruby193/bin/bundle:23:in `<main>'
+I, [2014-01-24T13:05:18.816569 #4464]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T13:05:18.818571 #4464]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T13:05:18.819571 #4464]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T13:05:18.820570 #4464]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T13:05:18.821571 #4464]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T13:05:18.823575 #4464]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T13:05:18.824575 #4464]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T13:05:18.825573 #4464]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T13:05:18.826575 #4464]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T13:05:18.828576 #4464]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T13:05:18.829579 #4464]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T13:05:18.831580 #4464]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T13:05:18.832579 #4464]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T13:05:18.833581 #4464]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T13:05:18.834582 #4464]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T13:05:18.835583 #4464]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T13:05:18.837583 #4464]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T13:05:18.838584 #4464]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T13:05:18.839583 #4464]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T13:05:18.840585 #4464]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T13:05:18.841586 #4464]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T13:05:18.843587 #4464]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T13:05:18.845589 #4464]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T13:05:18.847591 #4464]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T13:05:18.850591 #4464]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T13:05:18.852594 #4464]  INFO -- : 0:  carrierwave (0.9.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/carrierwave-0.9.0.gemspec
+I, [2014-01-24T13:05:18.854595 #4464]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T13:05:18.855596 #4464]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T13:05:18.857597 #4464]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T13:05:18.858598 #4464]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T13:05:18.860597 #4464]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T13:05:18.861600 #4464]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T13:05:18.863435 #4464]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T13:05:18.972511 #4464]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T13:05:18.974512 #4464]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T13:05:18.975511 #4464]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T13:05:18.977512 #4464]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T13:05:18.978514 #4464]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T13:05:18.979514 #4464]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T13:05:18.981516 #4464]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T13:05:18.983518 #4464]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T13:05:18.984517 #4464]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T13:05:18.986519 #4464]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+E, [2014-01-24T13:05:19.879111 #4464] ERROR -- : Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension.
+
+        D:/Ruby/Ruby193/bin/ruby.exe extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+Especifica‡Æo de unidade inv lida.
+Unable to get ImageMagick version
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=D:/Ruby/Ruby193/bin/ruby
+
+
+Gem files will remain installed in D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2 for inspection.
+Results logged to D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2/ext/RMagick/gem_make.out
+
+D:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:564:in `rescue in block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:540:in `block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `each'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:180:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \nD:/Ruby/Ruby193/bin/bundle:23:in `load'  \nD:/Ruby/Ruby193/bin/bundle:23:in `<main>'
+I, [2014-01-24T13:15:59.424881 #5036]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T13:15:59.426882 #5036]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T13:15:59.429885 #5036]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T13:15:59.431885 #5036]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T13:15:59.434887 #5036]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T13:15:59.436888 #5036]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T13:15:59.442894 #5036]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T13:15:59.443893 #5036]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T13:15:59.446896 #5036]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T13:15:59.449897 #5036]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T13:15:59.451899 #5036]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T13:15:59.453900 #5036]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T13:15:59.455902 #5036]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T13:15:59.456902 #5036]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T13:15:59.458903 #5036]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T13:15:59.459903 #5036]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T13:15:59.460904 #5036]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T13:15:59.461905 #5036]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T13:15:59.464908 #5036]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T13:15:59.466909 #5036]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T13:15:59.468910 #5036]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T13:15:59.469910 #5036]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T13:15:59.471911 #5036]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T13:15:59.472912 #5036]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T13:15:59.474914 #5036]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T13:15:59.476915 #5036]  INFO -- : 0:  carrierwave (0.9.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/carrierwave-0.9.0.gemspec
+I, [2014-01-24T13:15:59.481919 #5036]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T13:15:59.483919 #5036]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T13:15:59.485921 #5036]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T13:15:59.486922 #5036]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T13:15:59.488923 #5036]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T13:15:59.489923 #5036]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T13:15:59.490924 #5036]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T13:15:59.670043 #5036]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T13:15:59.672045 #5036]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T13:15:59.675047 #5036]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T13:15:59.677048 #5036]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T13:15:59.679050 #5036]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T13:15:59.681051 #5036]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T13:15:59.683052 #5036]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T13:15:59.685053 #5036]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T13:15:59.687055 #5036]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T13:15:59.689056 #5036]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+E, [2014-01-24T13:16:00.727744 #5036] ERROR -- : Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension.
+
+        D:/Ruby/Ruby193/bin/ruby.exe extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+Especifica‡Æo de unidade inv lida.
+Unable to get ImageMagick version
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=D:/Ruby/Ruby193/bin/ruby
+
+
+Gem files will remain installed in D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2 for inspection.
+Results logged to D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2/ext/RMagick/gem_make.out
+
+D:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:564:in `rescue in block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:540:in `block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `each'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:180:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \nD:/Ruby/Ruby193/bin/bundle:23:in `load'  \nD:/Ruby/Ruby193/bin/bundle:23:in `<main>'
+I, [2014-01-24T13:19:18.395807 #7664]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T13:19:18.397808 #7664]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T13:19:18.398809 #7664]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T13:19:18.400810 #7664]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T13:19:18.402811 #7664]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T13:19:18.403813 #7664]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T13:19:18.405815 #7664]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T13:19:18.407816 #7664]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T13:19:18.408815 #7664]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T13:19:18.412818 #7664]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T13:19:18.415820 #7664]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T13:19:18.417820 #7664]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T13:19:18.419826 #7664]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T13:19:18.423825 #7664]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T13:19:18.425827 #7664]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T13:19:18.427830 #7664]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T13:19:18.430829 #7664]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T13:19:18.431832 #7664]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T13:19:18.433834 #7664]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T13:19:18.434834 #7664]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T13:19:18.436834 #7664]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T13:19:18.438836 #7664]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T13:19:18.440837 #7664]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T13:19:18.442840 #7664]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T13:19:18.446842 #7664]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T13:19:18.447842 #7664]  INFO -- : 0:  carrierwave (0.9.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/carrierwave-0.9.0.gemspec
+I, [2014-01-24T13:19:18.449845 #7664]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T13:19:18.450845 #7664]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T13:19:18.453846 #7664]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T13:19:18.456849 #7664]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T13:19:18.459853 #7664]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T13:19:18.461850 #7664]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T13:19:18.463853 #7664]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T13:19:18.560917 #7664]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T13:19:18.561918 #7664]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T13:19:18.563919 #7664]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T13:19:18.564918 #7664]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T13:19:18.566921 #7664]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T13:19:18.568923 #7664]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T13:19:18.569923 #7664]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T13:19:18.571925 #7664]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T13:19:18.573926 #7664]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T13:19:18.574925 #7664]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+E, [2014-01-24T13:19:19.469459 #7664] ERROR -- : Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension.
+
+        D:/Ruby/Ruby193/bin/ruby.exe extconf.rb 
+checking for Ruby version >= 1.8.5... yes
+Especifica‡Æo de unidade inv lida.
+Unable to get ImageMagick version
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=D:/Ruby/Ruby193/bin/ruby
+
+
+Gem files will remain installed in D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2 for inspection.
+Results logged to D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/rmagick-2.13.2/ext/RMagick/gem_make.out
+
+D:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:564:in `rescue in block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:540:in `block in build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `each'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:515:in `build_extensions'  \nD:/Ruby/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:180:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \nD:/Ruby/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \nD:/Ruby/Ruby193/bin/bundle:23:in `load'  \nD:/Ruby/Ruby193/bin/bundle:23:in `<main>'
+I, [2014-01-24T13:26:37.564966 #4240]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T13:26:37.566966 #4240]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T13:26:37.567969 #4240]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T13:26:37.568970 #4240]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T13:26:37.569970 #4240]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T13:26:37.574973 #4240]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T13:26:37.576975 #4240]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T13:26:37.577975 #4240]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T13:26:37.578974 #4240]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T13:26:37.579977 #4240]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T13:26:37.580977 #4240]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T13:26:37.581978 #4240]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T13:26:37.583977 #4240]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T13:26:37.584980 #4240]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T13:26:37.585979 #4240]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T13:26:37.586982 #4240]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T13:26:37.588983 #4240]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T13:26:37.590983 #4240]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T13:26:37.592986 #4240]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T13:26:37.594987 #4240]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T13:26:37.595986 #4240]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T13:26:37.597989 #4240]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T13:26:37.598988 #4240]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T13:26:37.600990 #4240]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T13:26:37.602991 #4240]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T13:26:37.604994 #4240]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T13:26:37.605994 #4240]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T13:26:37.607996 #4240]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T13:26:37.609995 #4240]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T13:26:37.610996 #4240]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T13:26:37.752089 #4240]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T13:26:37.753091 #4240]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T13:26:37.755091 #4240]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T13:26:37.756093 #4240]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T13:26:37.758094 #4240]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T13:26:37.760095 #4240]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T13:26:37.762096 #4240]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T13:26:37.763097 #4240]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T13:26:37.765098 #4240]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T13:26:37.766099 #4240]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T13:26:37.768100 #4240]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T13:26:37.769101 #4240]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-24T13:26:37.771103 #4240]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-24T13:26:37.773104 #4240]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-24T13:26:37.775105 #4240]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-24T13:26:37.779108 #4240]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-24T13:26:37.780109 #4240]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-24T13:26:37.782111 #4240]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-24T13:36:14.726279 #7324]  INFO -- : 0:  rake (10.1.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T13:36:14.727279 #7324]  INFO -- : 0:  i18n (0.6.9) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T13:36:14.728281 #7324]  INFO -- : 0:  minitest (4.7.5) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T13:36:14.730281 #7324]  INFO -- : 0:  multi_json (1.8.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T13:36:14.731283 #7324]  INFO -- : 0:  atomic (1.1.14) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T13:36:14.732284 #7324]  INFO -- : 0:  thread_safe (0.1.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T13:36:14.733285 #7324]  INFO -- : 0:  tzinfo (0.3.38) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T13:36:14.734285 #7324]  INFO -- : 0:  activesupport (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T13:36:14.736286 #7324]  INFO -- : 0:  builder (3.1.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T13:36:14.737287 #7324]  INFO -- : 0:  erubis (2.7.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T13:36:14.738287 #7324]  INFO -- : 0:  rack (1.5.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T13:36:14.740289 #7324]  INFO -- : 0:  rack-test (0.6.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T13:36:14.742291 #7324]  INFO -- : 0:  actionpack (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T13:36:14.743292 #7324]  INFO -- : 0:  mime-types (1.25.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T13:36:14.745293 #7324]  INFO -- : 0:  polyglot (0.3.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T13:36:14.747293 #7324]  INFO -- : 0:  treetop (1.4.15) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T13:36:14.748293 #7324]  INFO -- : 0:  mail (2.5.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T13:36:14.750296 #7324]  INFO -- : 0:  actionmailer (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T13:36:14.752298 #7324]  INFO -- : 0:  activemodel (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T13:36:14.754298 #7324]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T13:36:14.757300 #7324]  INFO -- : 0:  arel (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T13:36:14.759302 #7324]  INFO -- : 0:  activerecord (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T13:36:14.762303 #7324]  INFO -- : 0:  bcrypt-ruby (3.1.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T13:36:14.763304 #7324]  INFO -- : 0:  bundler (1.5.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T13:36:14.766307 #7324]  INFO -- : 0:  coffee-script-source (1.6.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T13:36:14.768306 #7324]  INFO -- : 0:  execjs (2.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T13:36:14.770308 #7324]  INFO -- : 0:  coffee-script (2.2.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T13:36:14.772311 #7324]  INFO -- : 0:  thor (0.18.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T13:36:14.773312 #7324]  INFO -- : 0:  railties (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T13:36:14.775314 #7324]  INFO -- : 0:  coffee-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T13:36:14.777312 #7324]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T13:36:14.863371 #7324]  INFO -- : 0:  friendly_id (5.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T13:36:14.865371 #7324]  INFO -- : 0:  hike (1.2.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T13:36:14.866373 #7324]  INFO -- : 0:  jbuilder (1.5.3) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T13:36:14.869374 #7324]  INFO -- : 0:  jquery-rails (3.0.4) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T13:36:14.871375 #7324]  INFO -- : 0:  json (1.8.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T13:36:14.876379 #7324]  INFO -- : 0:  kaminari (0.15.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T13:36:23.789243 #7324]  INFO -- : 0:  pg (0.17.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/pg-0.17.1-x86-mingw32.gemspec
+I, [2014-01-24T13:36:23.791243 #7324]  INFO -- : 0:  tilt (1.4.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T13:36:23.793247 #7324]  INFO -- : 0:  sprockets (2.10.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T13:36:23.794245 #7324]  INFO -- : 0:  sprockets-rails (2.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T13:36:23.796249 #7324]  INFO -- : 0:  rails (4.0.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T13:36:23.798248 #7324]  INFO -- : 0:  rdoc (3.12.2) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-24T13:36:23.799251 #7324]  INFO -- : 0:  sass (3.2.13) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-24T13:36:23.801250 #7324]  INFO -- : 0:  sass-rails (4.0.1) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-24T13:36:23.804089 #7324]  INFO -- : 0:  sdoc (0.3.20) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-24T13:36:23.805093 #7324]  INFO -- : 0:  sqlite3 (1.3.8) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-24T13:36:23.807095 #7324]  INFO -- : 0:  turbolinks (2.1.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-24T13:36:23.808095 #7324]  INFO -- : 0:  uglifier (2.4.0) from D:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-24T16:14:44.597367 #1660]  INFO -- : 0:  rake (10.1.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T16:14:44.600369 #1660]  INFO -- : 0:  i18n (0.6.9) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T16:14:44.602371 #1660]  INFO -- : 0:  minitest (4.7.5) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T16:14:44.603371 #1660]  INFO -- : 0:  multi_json (1.8.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T16:14:44.605373 #1660]  INFO -- : 0:  atomic (1.1.14) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T16:14:44.607376 #1660]  INFO -- : 0:  thread_safe (0.1.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T16:14:44.610376 #1660]  INFO -- : 0:  tzinfo (0.3.38) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T16:14:44.613378 #1660]  INFO -- : 0:  activesupport (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T16:14:44.615379 #1660]  INFO -- : 0:  builder (3.1.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T16:14:44.618384 #1660]  INFO -- : 0:  erubis (2.7.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T16:14:44.620384 #1660]  INFO -- : 0:  rack (1.5.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T16:14:44.622386 #1660]  INFO -- : 0:  rack-test (0.6.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T16:14:44.625388 #1660]  INFO -- : 0:  actionpack (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T16:14:44.627387 #1660]  INFO -- : 0:  mime-types (1.25.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T16:14:44.629390 #1660]  INFO -- : 0:  polyglot (0.3.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T16:14:44.631392 #1660]  INFO -- : 0:  treetop (1.4.15) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T16:14:44.634394 #1660]  INFO -- : 0:  mail (2.5.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T16:14:44.636394 #1660]  INFO -- : 0:  actionmailer (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T16:14:44.638395 #1660]  INFO -- : 0:  activemodel (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T16:14:44.640398 #1660]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T16:14:44.641874 #1660]  INFO -- : 0:  arel (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T16:14:44.643879 #1660]  INFO -- : 0:  activerecord (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T16:14:44.644880 #1660]  INFO -- : 0:  bcrypt-ruby (3.1.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T16:14:44.646878 #1660]  INFO -- : 0:  coffee-script-source (1.6.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T16:14:44.648880 #1660]  INFO -- : 0:  execjs (2.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T16:14:44.650884 #1660]  INFO -- : 0:  coffee-script (2.2.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T16:14:44.652800 #1660]  INFO -- : 0:  thor (0.18.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T16:14:44.653805 #1660]  INFO -- : 0:  railties (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T16:14:44.655810 #1660]  INFO -- : 0:  coffee-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T16:14:44.657296 #1660]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T16:14:44.824410 #1660]  INFO -- : 0:  friendly_id (5.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T16:14:44.826412 #1660]  INFO -- : 0:  hike (1.2.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T16:14:44.827658 #1660]  INFO -- : 0:  jbuilder (1.5.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T16:14:44.829664 #1660]  INFO -- : 0:  jquery-rails (3.0.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T16:14:44.831626 #1660]  INFO -- : 0:  json (1.8.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T16:14:44.832800 #1660]  INFO -- : 0:  kaminari (0.15.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T16:14:44.834803 #1660]  INFO -- : 0:  pg (0.17.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/pg-0.17.1-x86-mingw32.gemspec
+I, [2014-01-24T16:14:44.835801 #1660]  INFO -- : 0:  bundler (1.5.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T16:14:44.837779 #1660]  INFO -- : 0:  tilt (1.4.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T16:14:44.838784 #1660]  INFO -- : 0:  sprockets (2.10.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T16:14:44.841017 #1660]  INFO -- : 0:  sprockets-rails (2.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T16:14:44.842613 #1660]  INFO -- : 0:  rails (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T16:14:44.843615 #1660]  INFO -- : 0:  rdoc (3.12.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-24T16:14:44.845619 #1660]  INFO -- : 0:  sass (3.2.13) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-24T16:14:44.846620 #1660]  INFO -- : 0:  sass-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-24T16:14:44.848621 #1660]  INFO -- : 0:  sdoc (0.3.20) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-24T16:14:44.850157 #1660]  INFO -- : 0:  sqlite3 (1.3.8) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-24T16:14:44.852163 #1660]  INFO -- : 0:  turbolinks (2.1.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-24T16:14:44.853161 #1660]  INFO -- : 0:  uglifier (2.4.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-24T16:16:53.417805 #6620]  INFO -- : 0:  rake (10.1.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-01-24T16:16:53.418805 #6620]  INFO -- : 0:  i18n (0.6.9) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/i18n-0.6.9.gemspec
+I, [2014-01-24T16:16:53.420803 #6620]  INFO -- : 0:  minitest (4.7.5) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/minitest-4.7.5.gemspec
+I, [2014-01-24T16:16:53.421807 #6620]  INFO -- : 0:  multi_json (1.8.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-24T16:16:53.422807 #6620]  INFO -- : 0:  atomic (1.1.14) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/atomic-1.1.14.gemspec
+I, [2014-01-24T16:16:53.423808 #6620]  INFO -- : 0:  thread_safe (0.1.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-24T16:16:53.424808 #6620]  INFO -- : 0:  tzinfo (0.3.38) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-24T16:16:53.426810 #6620]  INFO -- : 0:  activesupport (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-24T16:16:53.427810 #6620]  INFO -- : 0:  builder (3.1.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/builder-3.1.4.gemspec
+I, [2014-01-24T16:16:53.428811 #6620]  INFO -- : 0:  erubis (2.7.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/erubis-2.7.0.gemspec
+I, [2014-01-24T16:16:53.430811 #6620]  INFO -- : 0:  rack (1.5.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T16:16:53.432813 #6620]  INFO -- : 0:  rack-test (0.6.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T16:16:53.434813 #6620]  INFO -- : 0:  actionpack (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-24T16:16:53.435815 #6620]  INFO -- : 0:  mime-types (1.25.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-24T16:16:53.438817 #6620]  INFO -- : 0:  polyglot (0.3.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-24T16:16:53.439819 #6620]  INFO -- : 0:  treetop (1.4.15) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/treetop-1.4.15.gemspec
+I, [2014-01-24T16:16:53.441820 #6620]  INFO -- : 0:  mail (2.5.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/mail-2.5.4.gemspec
+I, [2014-01-24T16:16:53.442819 #6620]  INFO -- : 0:  actionmailer (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-24T16:16:53.444821 #6620]  INFO -- : 0:  activemodel (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-24T16:16:53.445822 #6620]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-24T16:16:53.446823 #6620]  INFO -- : 0:  arel (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/arel-4.0.1.gemspec
+I, [2014-01-24T16:16:53.447823 #6620]  INFO -- : 0:  activerecord (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-24T16:16:53.449825 #6620]  INFO -- : 0:  bcrypt-ruby (3.1.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bcrypt-ruby-3.1.2-x86-mingw32.gemspec
+I, [2014-01-24T16:16:53.450824 #6620]  INFO -- : 0:  coffee-script-source (1.6.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-24T16:16:53.452827 #6620]  INFO -- : 0:  execjs (2.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/execjs-2.0.2.gemspec
+I, [2014-01-24T16:16:53.453827 #6620]  INFO -- : 0:  coffee-script (2.2.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-24T16:16:53.454827 #6620]  INFO -- : 0:  thor (0.18.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/thor-0.18.1.gemspec
+I, [2014-01-24T16:16:53.456827 #6620]  INFO -- : 0:  railties (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/railties-4.0.2.gemspec
+I, [2014-01-24T16:16:53.457831 #6620]  INFO -- : 0:  coffee-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-24T16:16:53.458831 #6620]  INFO -- : 0:  font-awesome-rails (4.0.3.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/font-awesome-rails-4.0.3.1.gemspec
+I, [2014-01-24T16:16:53.585915 #6620]  INFO -- : 0:  friendly_id (5.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/bundler/gems/friendly_id-b7d2b0c0d209/friendly_id.gemspec
+I, [2014-01-24T16:16:53.586917 #6620]  INFO -- : 0:  hike (1.2.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/hike-1.2.3.gemspec
+I, [2014-01-24T16:16:53.588917 #6620]  INFO -- : 0:  jbuilder (1.5.3) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-24T16:16:53.589918 #6620]  INFO -- : 0:  jquery-rails (3.0.4) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-24T16:16:53.590919 #6620]  INFO -- : 0:  json (1.8.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/json-1.8.1.gemspec
+I, [2014-01-24T16:16:53.591919 #6620]  INFO -- : 0:  kaminari (0.15.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/kaminari-0.15.1.gemspec
+I, [2014-01-24T16:16:53.592921 #6620]  INFO -- : 0:  pg (0.17.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/pg-0.17.1-x86-mingw32.gemspec
+I, [2014-01-24T16:16:53.594919 #6620]  INFO -- : 0:  bundler (1.5.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-01-24T16:16:53.595923 #6620]  INFO -- : 0:  tilt (1.4.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T16:16:53.596923 #6620]  INFO -- : 0:  sprockets (2.10.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-24T16:16:53.597923 #6620]  INFO -- : 0:  sprockets-rails (2.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-24T16:16:53.599924 #6620]  INFO -- : 0:  rails (4.0.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rails-4.0.2.gemspec
+I, [2014-01-24T16:16:53.601927 #6620]  INFO -- : 0:  rdoc (3.12.2) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-24T16:16:53.603928 #6620]  INFO -- : 0:  sass (3.2.13) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-3.2.13.gemspec
+I, [2014-01-24T16:16:53.604928 #6620]  INFO -- : 0:  sass-rails (4.0.1) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-24T16:16:53.605929 #6620]  INFO -- : 0:  sdoc (0.3.20) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-24T16:16:53.606929 #6620]  INFO -- : 0:  sqlite3 (1.3.8) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/sqlite3-1.3.8-x86-mingw32.gemspec
+I, [2014-01-24T16:16:53.608933 #6620]  INFO -- : 0:  turbolinks (2.1.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-24T16:16:53.610931 #6620]  INFO -- : 0:  uglifier (2.4.0) from d:/Ruby/Ruby193/lib/ruby/gems/1.9.1/specifications/uglifier-2.4.0.gemspec
